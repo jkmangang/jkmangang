@@ -11,7 +11,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'jkmangang.github.io'
-google_analytics: ''
+google_analytics: 'UA-92510047-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
