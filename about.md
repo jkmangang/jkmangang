@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About me
+title: About
 ---
+My name is Johnson, and this blog was launched to write down my thoughts about music, technology and ideas..
 
-The volcano in the main page is the place where I grew up. Now I live in London.
+While I rest, I love to listen music, mostly fusion, soft rock, country and pop.
 
-I'm a freelance software developer working as a <a href="http://cirneco.digital/clojure-consultants-london">Clojure consultant in London</a> and teaching at <a href="http://coderwave.com">Coderwave</a>.
-
-I develop and maintain <a href="http://roundabout.io">Roundabout.io - London Startup Map</a>.
-
-
-
-I'm [@_sarhus](http://twitter.com/_sarhus) on Twitter, and you can reach me
-at [rosario@roundabout.io](mailto:rosario@roundbout.io).
+You can also find me at [Facebook](https://facebook.com/jkmangang), [Twitter](https://twitter.com/jonhatesjohn) and [Google+](https://plus.google.com/106866155086123010309).
