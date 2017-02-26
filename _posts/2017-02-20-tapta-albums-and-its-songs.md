@@ -393,12 +393,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 3. Nungsigee Changyeng (mityeng karan chanbirakkanu)
 
 #### Athouba (08 songs, upcoming album)
-1. Phiral 
-2. Leishem
-3. Shaktam 
-4. Kangleipak (Leaked)
-5. Khonjel
-6. Leplaroi 
+1. Kangleipak (leaked)
 
 ## GV (Group Voice)
 #### GV 01 (10 songs)
