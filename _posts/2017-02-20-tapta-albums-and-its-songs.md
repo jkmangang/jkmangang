@@ -392,6 +392,14 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 2. Tamlaba Lamdam (mityeng karan chanbirakkanu)
 3. Nungsigee Changyeng (mityeng karan chanbirakkanu)
 
+#### Athouba (08 songs, not released)
+1. Phiral 
+2. Leishem
+3. Shaktam 
+4. Kangleipak (Leaked)
+5. Khonjel
+6. Leplaroi 
+
 ## GV (Group Voice)
 #### GV 01 (10 songs)
 1. Eikhoi Hourase
@@ -425,7 +433,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 7. GV 03 - with Tondang
 8. GV 03 - Group
 
-## Total Songs: 327 (-5 = 322)
+## Total Songs: 335 (-5 = 330)
 Note: "Nobel Prize" is included in both Vol 11 and Combing Operation. "Mahoot" is also included in Vol 06 and Khudop. There are some remixes in Aka Train Series also.
 
 ****
