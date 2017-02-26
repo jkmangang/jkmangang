@@ -18,5 +18,4 @@ gems: [jekyll-paginate]
 url:            '/'
 author:         'Jkmangang'
 
-gems:  
- - jekyll-sitemap
+jekyll-sitemap
