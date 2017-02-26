@@ -20,7 +20,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 7. Last Warning
 8. Round Kick
 9. Rupashree
-10. Yamaha
+10. Yamaha (Sangita solo)
 11. The Power of Attraction 
 
 #### Vol 02 (10 songs)
