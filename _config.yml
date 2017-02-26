@@ -17,5 +17,3 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            '/'
 author:         'Jkmangang'
-
-jekyll-sitemap
