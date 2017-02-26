@@ -24,7 +24,7 @@ Unlike other singers of Manipur, Tapta tends to release most of his songs as alb
 ## Introducing ["taptalyrics"](https://taptalyrics.wordpress.com) blog
 As a big fan of Tapta, my brother Sumanta and I wanted to introduce a blog of Tapta, only for his song lyrics. Considering the popularity of Tapta, we thought introducing a lyrics blog would help a lot of lyrics-confused listeners as well as it would help a lot of listeners to enjoy the songs of Tapta. _That's the reason behind the launching of a new Tapta blog,_ [_taptalyrics.wordpress.com_](https://taptalyrics.wordpress.com). 
 
-As mp3 demands increased, we wanted to provide Mp3s as well associated with its lyrics, and hence all the songs available in mp3s were uploaded in Dropbox and Google Drive and the links were shared in public for download. If anybody finds any problem in downloading or broken links, contact me via email, or through our [facebook page](https://facebook.com/taptasongs). And you can also enjoy the first experience of latest singles or albums released in our blog.
+As mp3 demands increased, we wanted to provide Mp3s as well associated with its lyrics, and hence all the songs available in mp3s were uploaded in Dropbox and Google Drive and the links were made available in public for download. If anybody finds any problem in downloading or broken links, contact me via <a href="mailto:jonhatesjohn @gmail.com?Subject=Hello%20Johnson" target="_top">email</a>, or through our [facebook page](https://facebook.com/taptasongs). And you can also enjoy the first experience of latest singles or albums in our blog.
 
 ## Social Links
 * **[Facebook](https://fb.com/taptasongs)**
