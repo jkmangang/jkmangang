@@ -392,7 +392,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 2. Tamlaba Lamdam (mityeng karan chanbirakkanu)
 3. Nungsigee Changyeng (mityeng karan chanbirakkanu)
 
-#### Athouba (08 songs, not released)
+#### Athouba (08 songs, upcoming album)
 1. Phiral 
 2. Leishem
 3. Shaktam 
