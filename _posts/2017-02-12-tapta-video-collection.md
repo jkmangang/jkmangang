@@ -11,6 +11,10 @@ Keeping the thought in mind, I started a project of collecting watchable stage p
 
 ## Link for YouTube Playlist: [`Click Here`](https://youtube.com/playlist?list=PLpYhLMGc2SocksmN6bcfobWfKpjDXKdWm)
 
+<form action="https://youtube.com/playlist?list=PLpYhLMGc2SocksmN6bcfobWfKpjDXKdWmbcfobWfKpjDXKdWm">
+   <input type="submit" value="Go to Playlist" />
+</form>
+
 
 #### Videos Collected So Far :
 
