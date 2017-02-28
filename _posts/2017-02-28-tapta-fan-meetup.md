@@ -7,7 +7,7 @@ cover: "/images/Meetup.jpg"
 
 Regarding TAPTA FAN MEET CUM PICNIC programme, we organised a meetup @ Bir Tikendrajit Park on 27 Feb, 2017.
 
-The agenda was to get know each other, discuss the location and the contributions. So far we have met the following TAPTA Fans who are interested in participating the programme. 
+The agenda was to get know each other, discuss the location of the picnic and the contributions. So far we have met the following TAPTA Fans who are interested in participating the programme. 
 
 | Name   | | Location |
 | :----- | | -------: |
