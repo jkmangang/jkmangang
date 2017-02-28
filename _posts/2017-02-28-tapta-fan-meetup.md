@@ -30,5 +30,6 @@ The agenda was to get know each other, discuss the location and the contribution
 1. Make Sure the number of  participants is not less than 50.
 2. Desired location for the programme is Chingnungkhok.
 3. Minimum Contribution per head should be at least Rs. 300 and one may contribute more.
+4. To ensure an unplugged performance by Tapta also.
 
 We thank everyone who came yesterday for the meetup program. We will inform everyone in our page also for the next meetup.  Stay tune.
