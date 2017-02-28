@@ -31,4 +31,4 @@ The agenda was to get know each other, discuss the location and the contribution
 2. Desired location for the programme is Chingnungkhok.
 3. Minimum Contribution per head should be at least Rs. 300 and one may contribute more.
 
-We thank everyone who came yesterday for the meetup program. And we'll inform everyone about the next meetup. Stay tune.
+We thank everyone who came yesterday for the meetup program. And we'll inform everyone about the next meetup.We will also inform everyone in our page also for the next meetup.  Stay tune.
