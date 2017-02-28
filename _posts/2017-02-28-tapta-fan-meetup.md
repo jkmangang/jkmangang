@@ -2,6 +2,7 @@
 layout: post
 title: Tapta Fan Meetup 27/02
 category: [blog]
+cover: "/images/Meetup.jpg"
 ---
 
 Regarding TAPTA FAN MEET CUM PICNIC programme, we organised a meetup @ Bir Tikendrajit Park on 27 Feb, 2017.
