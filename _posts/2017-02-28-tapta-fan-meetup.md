@@ -18,10 +18,10 @@ Regarding TAPTA FAN MEET CUM PICNIC programme, we organised a meetup @ Bir Tiken
 | Satish Kh. | | Uripok |
 | Deepu | | Sagolband |
 | Ajit H. | | Kakwa |
-| Chinglai L | Keinou |
+| Chinglai L | | Keinou |
 | Lemba N. | | Kairang |
 | Kelvin W. | | Kairang |
-| Chinglensana K. | Takhel |
+| Chinglensana K. | | Takhel |
 
 *Resolutions* :
 1. Make Sure the number of  participants is not less than 50.
