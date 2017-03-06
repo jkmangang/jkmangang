@@ -180,7 +180,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 8. Wanglaba Thangjing
 9. Zero Bulb
 
-#### Shambru (10 songs)
+#### Shambru ( 10 songs - [in Zip](https://drive.google.com/file/d/0B6O6v47Pfb4meG9nc2pXMXRHTXc/view?usp=drivesdk) )
 1. Tamlaba Chingya
 2. Chaka Bandh
 3. Chenkhi Toina
@@ -192,7 +192,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 9. Wareda Cheinase
 10. Peerangni Kainabei
 
-#### Yum (10 songs)
+#### Yum ( 10 songs - [in Zip](https://drive.google.com/file/d/0B6O6v47Pfb4mS2cwVktaYjF2N2c/view?usp=drivesdk) )
 1. Asha
 2. Eibu Nungshi
 3. Engellei
