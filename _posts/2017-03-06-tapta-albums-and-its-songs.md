@@ -8,7 +8,11 @@ categories: [music]
 List of all the Tapta songs available to us.. Corrections and suggestions are welcome.
 
 
-## VOLUMES
+### List of Albums
+{:.no_toc}
+
+1. TOC
+{:toc}
 
 #### Vol 01 ( 11 songs - [in Zip](https://drive.google.com/file/d/0B6O6v47Pfb4mSC1lVndDQVE2UVU/view?usp=drivesdk) )
 1. Sou Sou
@@ -156,6 +160,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 6. Porn Videography
 
 ### SERIES 
+{:.no_toc}
 #### Khudop ( 11 songs - [in Zip](https://drive.google.com/file/d/0B6O6v47Pfb4mTUxBSFVySXVhb1E/view?usp=drivesdk) )
 1. Amashung
 2. Atithini
@@ -205,6 +210,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 10. Yum
 
 ### TAPTA ABOK
+{:.no_toc}
 #### Abok 01 ( 09 songs - [in Zip](https://drive.google.com/file/d/0B6O6v47Pfb4mQTBXRDVad2xVaVU/view?usp=drivesdk) )
 1. Nokliba Kangleichasa
 2. Abok
@@ -241,6 +247,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 10. 21st Century
 
 ### Special Attraction
+{:.no_toc}
 #### 7 Yrs Devastation ( 03 songs - [in Zip](https://drive.google.com/file/d/0B6O6v47Pfb4mM0JkY2k5aE9PX2s/view?usp=drivesdk) )
 1. Eikhoigi Mee
 2. 1819-1826
