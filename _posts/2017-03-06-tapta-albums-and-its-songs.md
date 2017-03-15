@@ -434,6 +434,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 8. GV 03 - Group
 
 ## Total Songs: 335 (-2 = 333)
+{:.no_toc}
 Note: "Nobel Prize" is included in both Vol 11 and Combing Operation. "Mahoot" is also included in Vol 06 and Khudop.
 
 ****
