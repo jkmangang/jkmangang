@@ -4,7 +4,7 @@ title: Things I love in my phone
 categories: [technology, tricks, apps]
 cover: /images/mobile.jpg
 ---
-As an android enthusiast, I always tend to do work online using my mobile. It is a mobile first world. Whatever you do online in PC can be done in Mobile too, even though it is not that capablecapable like that in PC. Here are some apps and tricks I love to share with everyone.
+As an android enthusiast, I always tend to do work online using my mobile. It is a mobile first world. Whatever you do online in PC can be done in Mobile too, even though it is not that capable like that in PC. Here are some apps and tricks I love to share with everyone.
 
 ## Apps
 #### [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
