@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things I love in my phone
+title: Things I do with my phone
 categories: [technology, tricks, apps]
 cover: /images/mobile.jpg
 ---
