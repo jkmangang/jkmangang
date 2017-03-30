@@ -45,7 +45,7 @@ Want to download stuffs from online and also see lesser ads in webpages..?
 It is the right browser for you and it uses lesser data too.
 
 #### [Ampere](https://play.google.com/store/apps/details?id=com.gombosdev.ampere)
-Sometimes, you may find charging to be very long and you want to figure out how much charging current the battery is taking / or how much current is coming through your usb cable. Ampere is there for you. I find it quite useful in adjusting my USB cable in a way to charge in normal rate. 
+Sometimes, you may find charging to be very slow and you want to figure out how much charging current the battery is taking / or how much current is coming through your usb cable. Ampere is there for you. I find it quite useful in adjusting my USB cable in a way to charge in normal rate. 
 
 
 ## Tricks
