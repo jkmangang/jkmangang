@@ -4,8 +4,7 @@ title: Things I love in my phone
 categories: [technology, tricks, apps]
 cover: /images/mobile.jpg
 ---
-
-My 2+ year old Oneplus One is still working good. The camera disappointed me a little bit as the camera blobs are no longer updated since Marshmallow, and I'm running LineageOs as the primary Os in my phone, to upgrade in Android Nougat. I don't have a computer but I always tend to do things that I should do in a computer, with my  phone. Here are some android apps I love to mention and tricks that I use a lot. 
+As an android enthusiast, I always tend to things using my mobile. It is a mobile first world. Whatever yo do online in PC can be done in Mobile too, even though it is not that capablecapable like that in PC. Here are some apps and tricks I love to share with everyone.
 
 ## Apps
 #### [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
