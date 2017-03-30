@@ -67,7 +67,7 @@ Can you notice the difference?
 #### Get High Quality YouTube Thumbnail
 Get the YouTube video id. 
 And modify and insert in the below link.
-[http://img.youtube.com/vi/<insert-youtube-video-id-here>/maxresdefault.jpg](http://img.youtube.com/vi/<insert-youtube-video-id-here>/maxresdefault.jpg)
+[http://img.youtube.com/vi/insert-youtube-video-id-here/maxresdefault.jpg](http://img.youtube.com/vi/insert-youtube-video-id-here/maxresdefault.jpg)
 
 #### Want to share an audio ?
 Upload in [Clyp](https://clyp.it) and share it. It doesn't require any sign up too.
