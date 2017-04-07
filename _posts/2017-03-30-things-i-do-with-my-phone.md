@@ -6,6 +6,7 @@ cover: /images/mobile.jpg
 ---
 Let me share something I do with my phone. It is portable and a quite a capable tool and can perform quite a number of task.
 Here are some apps and tips.
+
 ## Apps
 #### [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
 Chrome is my most favourite browser for things I do in online. It is fast and secure. It is also a good replacement for the data and battery hog *Facebook* app. You can even download videos you see in facebook using Chrome.
