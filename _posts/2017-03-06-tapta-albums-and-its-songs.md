@@ -369,7 +369,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 1. Keishal Jail
 2. Yaraktagi Kotthorakpa Chak Maru
 
-### Singles (12 songs)
+### Singles (14 songs)
 1. Chittarajan
 2. Handicap
 3. Haa Bemma
@@ -386,6 +386,8 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 14. Sisu Lou Sisu Lou (in Abok 01)
 15. Mama Nang Tumli
 16. Fake Teacher
+17. Black Coat
+18. RiverBank Music Festival
 
 #### Tangbo (03 songs)
 1. Mikhal
@@ -433,7 +435,7 @@ List of all the Tapta songs available to us.. Corrections and suggestions are we
 7. GV 03 - with Tondang
 8. GV 03 - Group
 
-## Total Songs: 335 (-2 = 333)
+## Total Songs: 337 (-2 = 335)
 {:.no_toc}
 Note: "Nobel Prize" is included in both Vol 11 and Combing Operation. "Mahoot" is also included in Vol 06 and Khudop.
 
