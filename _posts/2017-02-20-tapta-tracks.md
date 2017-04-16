@@ -5,7 +5,11 @@ categories: [music]
 cover : "/images/tracks.jpg"
 ---
 
-Collection of all the available tracks of Tapta songs.
+Collection of all the available tracks of Tapta songs. 
+actions:
+  - label: "Download Tracks"
+    icon: download
+    url: "https://drive.google.com/folderview?id=0B6O6v47Pfb4mQ1VhNmt1anVudlE"
 
 #### Tracks 
 1. [+Ve (AIDS)](https://drive.google.com/file/d/0B6O6v47Pfb4mNml2cGM2VTFwU0U/view?usp=drivesdk)
