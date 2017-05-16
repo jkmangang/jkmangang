@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/jkmangang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jkmangang.github.io
+  * I am jkmangang (https://keybase.io/jkmangang) on keybase.
+  * I have a public key ASD71C7thh9kmeuwp9EdOMOiqy7adCmDyhyCZKL9lXSTqAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120fbd42eed861f6499ebb0a7d11d38c3a2ab2eda742983ca1c8264a2fd957493a80a",
+            "host": "keybase.io",
+            "kid": "0120fbd42eed861f6499ebb0a7d11d38c3a2ab2eda742983ca1c8264a2fd957493a80a",
+            "uid": "3fde1fe6aae85c69fd77d7a9acfbfc19",
+            "username": "jkmangang"
+        },
+        "service": {
+            "hostname": "jkmangang.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1494924896,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1494924869,
+        "hash": "efbb4eec04c32cd9bc02cdeba297d8fe22b28862f254f8309e679f343a3c81b18d10ff1b65a6e04cea2343837a75f5aaf4a53196c9363f4dc1296acbcd064515",
+        "seqno": 1086938
+    },
+    "prev": "91b1d2d03cb33e29452084b9a912f0ab263b062552fb1c5b901eba5669fd8db2",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+9Qu7YYfZJnrsKfRHTjDoqsu2nQpg8ocgmSi/ZV0k6gKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZmJkNDJlZWQ4NjFmNjQ5OWViYjBhN2QxMWQzOGMzYTJhYjJlZGE3NDI5ODNjYTFjODI2NGEyZmQ5NTc0OTNhODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmJkNDJlZWQ4NjFmNjQ5OWViYjBhN2QxMWQzOGMzYTJhYjJlZGE3NDI5ODNjYTFjODI2NGEyZmQ5NTc0OTNhODBhIiwidWlkIjoiM2ZkZTFmZTZhYWU4NWM2OWZkNzdkN2E5YWNmYmZjMTkiLCJ1c2VybmFtZSI6ImprbWFuZ2FuZyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiamttYW5nYW5nLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIyIn0sImN0aW1lIjoxNDk0OTI0ODk2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTQ5MjQ4NjksImhhc2giOiJlZmJiNGVlYzA0YzMyY2Q5YmMwMmNkZWJhMjk3ZDhmZTIyYjI4ODYyZjI1NGY4MzA5ZTY3OWYzNDNhM2M4MWIxOGQxMGZmMWI2NWE2ZTA0Y2VhMjM0MzgzN2E3NWY1YWFmNGE1MzE5NmM5MzYzZjRkYzEyOTZhY2JjZDA2NDUxNSIsInNlcW5vIjoxMDg2OTM4fSwicHJldiI6IjkxYjFkMmQwM2NiMzNlMjk0NTIwODRiOWE5MTJmMGFiMjYzYjA2MjU1MmZiMWM1YjkwMWViYTU2NjlmZDhkYjIiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBmRz1nBG8A3RTRYagGwtEarpRE6WinCbVUzmR/FvGSH2LOhKZdKQLj00b6VnKiyNekgLqAev36UDBiR4gwUZ8LqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgoPu65WZqAUtfATu9PkQdy9tNkNLDAyyMa6HOHqq0MkGjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jkmangang
+
+==================================================================
